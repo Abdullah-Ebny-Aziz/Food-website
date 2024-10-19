@@ -1,1 +1,1 @@
-I am Abdullah Aziz. This is food website.
+I am Abdullah Aziz. This is food website.But no responsive website.
